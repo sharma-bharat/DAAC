@@ -1,0 +1,8 @@
+https://dd.weather.gc.ca/today/climate/observations/daily/csv/PE/climate_daily_PE_8300301_2025_P1D.csv
+https://dd.weather.gc.ca/today/climate/observations/daily/csv/PE/climate_daily_PE_8300418_2025_P1D.csv
+https://dd.weather.gc.ca/today/climate/observations/daily/csv/PE/climate_daily_PE_8300516_2025_P1D.csv
+https://dd.weather.gc.ca/today/climate/observations/daily/csv/PE/climate_daily_PE_8300562_2025_P1D.csv
+https://dd.weather.gc.ca/today/climate/observations/daily/csv/PE/climate_daily_PE_8300590_2025_P1D.csv
+https://dd.weather.gc.ca/today/climate/observations/daily/csv/PE/climate_daily_PE_8300596_2025_P1D.csv
+https://dd.weather.gc.ca/today/climate/observations/daily/csv/PE/climate_daily_PE_8305500_2025_P1D.csv
+https://dd.weather.gc.ca/today/climate/observations/daily/csv/PE/climate_daily_PE_830P001_2025_P1D.csv

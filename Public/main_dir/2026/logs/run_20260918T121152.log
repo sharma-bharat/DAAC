@@ -1,0 +1,35 @@
+2026-09-18 12:11:52,730 INFO    Log file: /Users/ud4/repos/GitHub/sharma-bharat/DAAC/Public/main_dir/2026/logs/run_20260918T121152.log
+2026-09-18 12:11:52,730 INFO    Year 2026 | root /Users/ud4/repos/GitHub/sharma-bharat/DAAC/Public/main_dir/2026 | stages ['urls', 'download', 'transform', 'stnlist']
+2026-09-18 12:11:55,868 INFO      90 AB
+2026-09-18 12:11:57,832 INFO     229 BC
+2026-09-18 12:11:59,129 INFO      76 MB
+2026-09-18 12:11:59,765 INFO      26 NB
+2026-09-18 12:12:00,381 INFO      47 NL
+2026-09-18 12:12:01,156 INFO      49 NS
+2026-09-18 12:12:01,628 INFO      61 NT
+2026-09-18 12:12:03,106 INFO      72 NU
+2026-09-18 12:12:09,698 INFO     166 ON
+2026-09-18 12:12:10,127 INFO       8 PE
+2026-09-18 12:12:11,723 INFO     141 QC
+2026-09-18 12:12:12,917 INFO      75 SK
+2026-09-18 12:12:28,726 INFO      28 YT
+2026-09-18 12:12:28,728 INFO    TOTAL 1068 URLs -> /Users/ud4/repos/GitHub/sharma-bharat/DAAC/Public/main_dir/2026/urls/ALLPROV_2026_URLlist.txt
+2026-09-18 12:12:29,110 INFO    Downloaded climate_station_list.csv
+2026-09-18 12:12:29,133 INFO    Download: 1068 of 1068 files needed (0 already present)
+2026-09-18 12:12:33,681 INFO      ... 100/1068
+2026-09-18 12:12:39,515 INFO      ... 200/1068
+2026-09-18 12:12:46,187 INFO      ... 300/1068
+2026-09-18 12:12:54,955 INFO      ... 400/1068
+2026-09-18 12:13:03,606 INFO      ... 500/1068
+2026-09-18 12:13:09,563 INFO      ... 600/1068
+2026-09-18 12:13:19,678 INFO      ... 700/1068
+2026-09-18 12:13:33,990 INFO      ... 800/1068
+2026-09-18 12:13:44,100 INFO      ... 900/1068
+2026-09-18 12:13:51,187 INFO      ... 1000/1068
+2026-09-18 12:14:38,178 INFO    source_stn_data now holds 1068 CSVs
+2026-09-18 12:14:38,197 INFO    Transforming 1068 files onto the 365-day 2026 Daymet calendar ...
+2026-09-18 12:14:44,635 INFO    Transform done: 827 GOOD -> /Users/ud4/repos/GitHub/sharma-bharat/DAAC/Public/main_dir/2026/transformed/good
+2026-09-18 12:14:44,635 INFO                    241 BAD  -> /Users/ud4/repos/GitHub/sharma-bharat/DAAC/Public/main_dir/2026/transformed/bad
+2026-09-18 12:14:44,635 INFO    QC report: /Users/ud4/repos/GitHub/sharma-bharat/DAAC/Public/main_dir/2026/qc_report_2026.csv
+2026-09-18 12:14:44,784 INFO    stnList: 827 stations -> /Users/ud4/repos/GitHub/sharma-bharat/DAAC/Public/main_dir/2026/stnList_2026.csv
+2026-09-18 12:14:44,785 INFO    Done.
